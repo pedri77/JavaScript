@@ -49,7 +49,7 @@
 * [Código Facilito](https://www.youtube.com/user/codigofacilito)
 * [Píldoras Informáticas](https://www.youtube.com/channel/UCdulIs-x_xrRd1ezwJZR9ww)
 * [Guinsu](https://www.youtube.com/user/GuinxuVideos)
-* 
+
 ## Videos
 
 * [Introducción a React](https://www.youtube.com/watch?v=4gAAiOKOwio)
