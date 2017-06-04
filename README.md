@@ -1,6 +1,6 @@
 # JavaScript
 
-[Js](http://opensourceforu.com/wp-content/uploads/2016/10/JavaScript.jpg)
+![Js](http://opensourceforu.com/wp-content/uploads/2016/10/JavaScript.jpg)
 
 *Documentación interesante sobre este lenguaje de programación*
 
